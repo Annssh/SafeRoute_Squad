@@ -42,8 +42,7 @@ The project models a shopping complex as a weighted graph (5 rows × 7 columns =
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/shopping-complex-evacuation.git
-cd shopping-complex-evacuation
+git clone https://github.com/Annssh/SafeRoute_Squad
 
 # 2. Install dependencies
 pip install flask flask-cors
